@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-**[View Live →](https://landing-page-cafe-78pj.vercel.app/)** 
+**[View Live →](https://your-deployed-link.vercel.app)** *([replace with your Vercel/Netlify URL](https://landing-page-cafe-78pj.vercel.app/))*
 
 ---
 
@@ -28,7 +28,7 @@ This project was built to demonstrate end-to-end full-stack development: from a 
 
 ### 🛠️ Admin Side
 - Dashboard to view all incoming reservation requests
-- One-click **Accept ✅** or **Reject ❌** for each booking
+- One-click **Accept ** or **Reject ** for each booking
 - Real-time reservation status updates
 - Clean, efficient management interface
 
@@ -156,8 +156,8 @@ Customer notified via email
 
 **Ganashri**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)]([https://github.com/yourusername](https://github.com/ganashrilondhe-creator))
+
 
 ---
 
