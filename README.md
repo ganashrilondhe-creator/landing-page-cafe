@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-**[View Live →](https://your-deployed-link.vercel.app)** *([replace with your Vercel/Netlify URL](https://landing-page-cafe-78pj.vercel.app/))*
+**[View Live →](https://your-deployed-link.vercel.app)** *((https://landing-page-cafe-78pj.vercel.app/))*
 
 ---
 
