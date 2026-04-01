@@ -154,9 +154,9 @@ Customer notified via email
 
 ## 👩‍💻 Author
 
-**Ganashri**
+**Ganashri Londhe**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)]([https://github.com/yourusername](https://github.com/ganashrilondhe-creator))
+[![GitHub]]((https://github.com/ganashrilondhe-creator))
 
 
 ---
