@@ -70,7 +70,7 @@ export default function Contact() {
             </div>
             <div className="contact-item">
               <span className="contact-label">Phone</span>
-              <a href="tel:+15551234567">9137929409</a>
+              <a href="tel:+15551234567">9999 9999 99</a>
             </div>
           </div>
         </div>
