@@ -156,7 +156,7 @@ Customer notified via email
 
 **Ganashri Londhe**
 
-[![GitHub]]((https://github.com/ganashrilondhe-creator))
+[![GitHub]]([(https://github.com/ganashrilondhe-creator)](https://github.com/ganashrilondhe-creator/))
 
 
 ---
